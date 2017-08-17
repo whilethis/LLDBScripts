@@ -2,7 +2,7 @@
 
 In your `~/.lldbinit` file add the following command:
 
-`command source /path/to/LLDBScripts/lldbinit`
+`command script import /path/to/LLDBScripts/lldbinit.py`
 
 ## Available commands
 
