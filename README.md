@@ -17,3 +17,5 @@ The options you can give to the command are:
 - `-n` to support `NSString` instances
 
 You can find more information about jq here: https://stedolan.github.io/jq/
+
+Many thanks to Aijaz Ansari for most of the jq loading work: https://github.com/aijaz/lldbPythonScripts
