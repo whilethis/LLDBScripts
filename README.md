@@ -13,7 +13,7 @@ The variable to inspect must be an instance of a Swift unwrapped string, NSStrin
 
 The options you can give to the command are:
 
--`-c` for compact output. By default jq will output pretty-printed JSON
--`-n` to support `NSString` instances
+- `-c` for compact output. By default jq will output pretty-printed JSON
+- `-n` to support `NSString` instances
 
 You can find more information about jq here: https://stedolan.github.io/jq/
